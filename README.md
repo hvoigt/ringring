@@ -41,3 +41,11 @@ nothing.
 
 This also allows us to properly debounce the input in software. If you
 need a longer time for that its quite easy to modify.
+
+## Adapter board
+
+This is my version of the adapter I use. The 500 Ohm need for my bell
+are created by two 1k resistors in parallel. So there is enough
+headroom for power when using 250mW resistors.
+
+![Adapter board](adapter-schematic.png)
